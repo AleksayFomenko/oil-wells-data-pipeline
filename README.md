@@ -224,7 +224,7 @@ docker compose up -d --build
     <li>Line Chart — Actual vs Predicted</li>
     <li>Line Chart — Error over time</li>
   </ul>
-  <img src="superset/dashboards/ml_forecast.png" width="700">
+  <img src="superset/dashboards/ml_forecast.jpg" width="700">
 </details>
 
 <details>
@@ -242,7 +242,7 @@ docker compose up -d --build
     <li>Line Chart — вибрация по насосам</li>
     <li>Bar Chart — средний risk score по насосам</li>
   </ul>
-  <img src="superset/dashboards/anomalies.png" width="700">
+  <img src="superset/dashboards/anomalies.jpg" width="700">
 </details>
 
 <details>
@@ -259,7 +259,7 @@ docker compose up -d --build
     <li>Scatter — Cost vs Distance</li>
     <li>Bar Chart — KPI по водителям</li>
   </ul>
-  <img src="superset/dashboards/logistics.png" width="700">
+  <img src="superset/dashboards/logistics.jpg" width="700">
 </details>
 
 <h2>✅ Закрытые требования ТЗ</h2>
