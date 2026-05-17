@@ -207,7 +207,7 @@ docker compose up -d --build
     <li>Bar Chart — топ скважин по среднему дебиту</li>
     <li>Heatmap — давление × дебит</li>
   </ul>
-  <img src="superset/dashboards/production.png" width="700">
+  <img src="superset/dashboards/production.jpg" width="700">
 </details>
 
 <details>
